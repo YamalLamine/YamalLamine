@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YamalLamine
 - 👀 I’m interested in the basics of programming and mathematics
-- 🌱 I’m currently learning undergraduate computer science and Harvard's online course CS50
+- 🌱 I’m currently an undergraduate computer science student.
 - 💞️ I’m looking to collaborate on cool projects (??)
 - 📫 How to reach me: here, I guess...
 - 😄 Pronouns: He/Him
